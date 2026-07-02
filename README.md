@@ -1,2 +1,34 @@
 # zk-skills
-ZK personal Claude Code / OpenClaw skill collection
+
+ZK 个人维护的 Claude Code / OpenClaw skill 集合。
+
+按 Claude Code 标准组织：每个 skill 是仓库根下 `skills/<skill-name>/` 下的独立目录，含 `SKILL.md` 入口与 `references/` 等引用文件。
+
+## 已收录的 skills
+
+| Skill | 描述 | 来源 |
+|---|---|---|
+| [super-creazy-html-ppt-in-work](./skills/super-creazy-html-ppt-in-work) | 高端 HTML 幻灯片生成器：智能主题匹配、SVG 图标系统、玻璃态/新拟态/极简多风格、8 种布局 × 12 主题 × 30 动画、16:9 演示优化 | upstream |
+
+## 安装
+
+### Claude Code
+
+```bash
+git clone https://github.com/zuoanCo/zk-skills ~/.claude/skills/zk-skills
+# 或单独软链一个
+ln -s "$(pwd)/skills/super-creazy-html-ppt-in-work" ~/.claude/skills/super-creazy-html-ppt-in-work
+```
+
+### OpenClaw
+
+```bash
+cp -r skills/super-creazy-html-ppt-in-work ~/.openclaw/workspace/skills/
+```
+
+## 维护约定
+
+- 新增 skill：放在 `skills/<skill-name>/`，自包含
+- 引用文件统一放 `references/`
+- frontmatter 至少含 `name` + `description`
+- 大文件不进入 git
