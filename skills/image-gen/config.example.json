@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy this file to config.json (same directory) and replace placeholders. chmod 600 config.json to lock down. API keys live ONLY in env vars or this file — never in skill source.",
+  "providers": {
+    "geeknow": {
+      "api_key": "sk-REPLACE_ME_WITH_YOUR_GEEKKNOW_KEY",
+      "base_url": "https://www.geeknow.top/v1"
+    }
+  }
+}

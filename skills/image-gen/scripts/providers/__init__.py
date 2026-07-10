@@ -1,0 +1,1 @@
+"""Provider adapters for OpenAI / NewAPI-compatible image generation services."""

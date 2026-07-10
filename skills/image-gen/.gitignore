@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Test / cache
+.pytest_cache/
+.coverage
+
+# Local config with API keys (never commit secrets)
+config.json
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
