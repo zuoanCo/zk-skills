@@ -1,0 +1,11 @@
+campaign_name,ad_group_name,customer_search_term,impressions,clicks,spend,sales,orders
+Auto-1,Ad-1,pet water fountain,10000,120,48.0,120.0,3
+Auto-1,Ad-1,cat water fountain,8000,95,38.0,180.0,4
+Auto-1,Ad-1,water bowl,6000,80,40.0,20.0,1
+Auto-1,Ad-1,cheap pet fountain,4000,60,36.0,0.0,0
+Manual-Exact,Ad-1,stainless steel cat water fountain,5000,75,45.0,280.0,6
+Manual-Exact,Ad-1,quiet cat water fountain,3500,55,33.0,195.0,5
+Manual-Exact,Ad-1,automatic water fountain for cats,3000,48,28.8,170.0,4
+Manual-Phrase,Ad-1,pet supplies,7000,90,54.0,60.0,1
+Manual-Phrase,Ad-1,fountain,5500,70,42.0,45.0,1
+Product-Target,Ad-1,B08AAAAA,2000,30,21.0,35.0,1

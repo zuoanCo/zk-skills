@@ -1,0 +1,6 @@
+sku,warehouse,quantity,inbound,sales_7d,sales_30d,age_days
+WP-001,US-West,320,500,45,180,45
+WP-002,US-West,80,0,35,150,30
+WP-003,US-West,1200,0,10,40,200
+WP-004,US-East,50,200,60,220,25
+WP-005,US-West,500,0,5,15,180
