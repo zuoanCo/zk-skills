@@ -1,0 +1,249 @@
+{
+  "mode": "both",
+  "platforms": {
+    "domestic": {
+      "shengyicanmou": {
+        "enabled": false,
+        "name": "生意参谋",
+        "description": "淘宝/天猫官方数据工具，行业大盘、搜索分析、竞品",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": "",
+        "shop_id": ""
+      },
+      "alibaba1688": {
+        "enabled": false,
+        "name": "1688",
+        "description": "阿里巴巴B2B平台，供应商、比价、进货",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "chanmama": {
+        "enabled": false,
+        "name": "蝉妈妈",
+        "description": "抖音电商数据，直播分析、达人带货、爆款追踪",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "feigua": {
+        "enabled": false,
+        "name": "飞瓜数据",
+        "description": "抖音/快手电商数据，选品分析、达人排行",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "douchacha": {
+        "enabled": false,
+        "name": "抖查查",
+        "description": "达人带货数据、商品销量、直播分析",
+        "api_url": "",
+        "api_key": ""
+      },
+      "pdd_duoduo": {
+        "enabled": false,
+        "name": "多多参谋",
+        "description": "拼多多关键词、竞品分析、类目数据",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "jd_shangzhi": {
+        "enabled": false,
+        "name": "京东商智",
+        "description": "京东官方数据，行业大盘、搜索分析、竞品",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "baidu_index": {
+        "enabled": false,
+        "name": "百度指数",
+        "description": "搜索趋势、需求热度分析（免费）",
+        "api_url": "https://index.baidu.com",
+        "cookie": "CHKFORREG=15e11494e6e48c60cd4d056a4bfb188a; PSTM=1764151311; BIDUPSID=51454B9D0F6AD6BF9F77FBA16606ACD1; BAIDUID=5D00924B66A791B8778E15292777A2D9:FG=1; BAIDUID_BFESS=5D00924B66A791B8778E15292777A2D9:FG=1; ZFY=HOCNGAtuegZ2TQx:BmSRi7DY:Ah1jeJhIKLbQsFUresq4:C; BAIDU_WISE_UID=wapp_1775638623349_36; H_WISE_SIDS=63147_67602_67861_68166_68736_69002_69195_69241_69373_69419_69415_69414_69448_69449_69438_69585_69653_69675_69745_69726_69770_69845_69898_69962_70044_70037_70116_70151_70140_70181_70154_70223_70265_70184_70257_70268_70321_70142_70354_69917_70356; H_WISE_SIDS_BFESS=63147_67602_67861_68166_68736_69002_69195_69241_69373_69419_69415_69414_69448_69449_69438_69585_69653_69675_69745_69726_69770_69845_69898_69962_70044_70037_70116_70151_70140_70181_70154_70223_70265_70184_70257_70268_70321_70142_70354_69917_70356; H_PS_PSSID=63147_67861_68166_71038_71099_71148_71138_71220_71238_71242_71267_71280_71278_71275_71282_71295_71305_71334_71314_71349_71363_71370_71232_71397_71394_71405_71430_71464_71476_71482_71442_71456_71447_71413_71552_71534_71537_71532_71540_71545_71559_71564_71553_71557_71565_71577_71603_71624_71641_71643_71651_71504_71681_71688; jsdk-uuid=4b32e05d-43fe-40c9-a147-afb91b234359; __bid_n=19fca62d9124608b8fc049; MCITY=-%3A; ppfuid=9cca27986fe8a86116ea98ab66752eee; BDUSS=lKOFZXTzJLN3lldHRHR0cwWklqZy1OWWs2a3NCaWJ0SGhweEhDNG91Z3QzcHhxRVFBQUFBJCQAAAAAAAAAAAEAAADXnd-U18HEpbK7zbjC6ryqy7kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC1RdWotUXVqZD; SIGNIN_UC=70a2711cf1d3d9b1a82d2f87d633bd8a05360858388pOQEca9qqyBfIZWyER2ZnyDcRKe1AcrigBZ2QFZ5Y4ezyudp7TWL9cTreZLbR6RnAF37BKiZQdoWcVsjWMtD%2BZx93ISYfOgFvzTz3M9tubzdplNhechQmSJlgmc19SvvYHpiP%2BN%2FnMHagsRv6mTcAg4r3TkIsmrFERWYN0FWScqFFEmm6MPUcIgrVoRUWF1V7gL7hsvSUmPYfnTzbhe3b6cE2%2B58Ytuvjv5%2F2aWaKfxVfLi%2B5lg9ghcrAz2qPAipfvNi%2FAlUvn0Ky699oGWsTvwJ4OLCpC1LjR2GogCHGGMzhnPn6KfngVpImNJtzh2V70NwYiK9c1oAXa0xP91Mp4N1tNsfClFR4qxx2%2FfqgNc%3D61211233723858931009388394550981; __cas__rn__=536085838; __cas__st__212=869f1fbcd737d93e7bc56db0e74a4af596776b3ff6077cd3423308e00d4f27d4a16e58c057d9f573d8de0e15; __cas__id__212=88229172; CPTK_212=1506184843; CPID_212=88229172; bdindexid=ftm9ee0el5908a5f8ekdbc2297; ab_sr=1.0.1_OTdkMGVhN2YyNmNhY2QxYjIzMTc0YTZkNjJlYWQzYTlhY2ZhNzRmNTJhMzQzNTc5NTk1NWI2OWY5NjNmYjI2ZWNkZDQzMjRmYmE4OTVmY2YyNGMyYjA0ZDkyNGU2OTlkZTFkZDI4MGQ0N2MyN2Q3OTU0ZWVlNmIyMWU2YmYzYWEwYWRmYTJkOWMwZWQwMGM1MzU5M2ViN2E3ZWEyY2Q4Mw==; BDUSS_BFESS=lKOFZXTzJLN3lldHRHR0cwWklqZy1OWWs2a3NCaWJ0SGhweEhDNG91Z3QzcHhxRVFBQUFBJCQAAAAAAAAAAAEAAADXnd-U18HEpbK7zbjC6ryqy7kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC1RdWotUXVqZD; RT=\"z=1&dm=baidu.com&si=31b7ff69-14cb-430d-b4d1-d317acede905&ss=msidvnyo&sl=m&tt=nek&bcn=https%3A%2F%2Ffclog.baidu.com%2Flog%2Fweirwood%3Ftype%3Dperf\""
+      },
+      "wechat_index": {
+        "enabled": false,
+        "name": "微信指数",
+        "description": "微信生态消费趋势（免费）",
+        "api_url": "",
+        "cookie": ""
+      },
+      "qichacha": {
+        "enabled": false,
+        "name": "企查查",
+        "description": "供应商背景调查、工厂资质核实",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "tianyancha": {
+        "enabled": false,
+        "name": "天眼查",
+        "description": "企业信息查询、供应商风险评估",
+        "api_key": "",
+        "api_secret": ""
+      }
+    },
+    "international": {
+      "seller_spirit": {
+        "enabled": false,
+        "name": "卖家精灵",
+        "description": "亚马逊选品、关键词、竞品分析、利润计算",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "keepa": {
+        "enabled": false,
+        "name": "Keepa",
+        "description": "亚马逊价格历史、BSR排名追踪",
+        "api_url": "https://api.keepa.com",
+        "api_key": "test123"
+      },
+      "helium10": {
+        "enabled": false,
+        "name": "Helium 10",
+        "description": "亚马逊选品、关键词、Listing优化",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "jungle_scout": {
+        "enabled": false,
+        "name": "Jungle Scout",
+        "description": "亚马逊选品、市场趋势、竞品追踪",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "amzscout": {
+        "enabled": false,
+        "name": "AMZScout",
+        "description": "亚马逊价格追踪、销量预估",
+        "api_url": "",
+        "api_key": ""
+      },
+      "ciel": {
+        "enabled": false,
+        "name": "数魔",
+        "description": "亚马逊选品、竞品监控、关键词",
+        "api_url": "",
+        "api_key": ""
+      },
+      "amazon_sp_api": {
+        "enabled": false,
+        "name": "亚马逊SP-API",
+        "description": "亚马逊官方卖家API，订单、库存、广告",
+        "refresh_token": "",
+        "lwa_app_id": "",
+        "lwa_client_secret": "",
+        "aws_access_key": "",
+        "aws_secret_key": "",
+        "role_arn": "",
+        "marketplace": "ATVPDKIKX0DER"
+      },
+      "aliexpress_api": {
+        "enabled": false,
+        "name": "速卖通开放平台",
+        "description": "速卖通官方API，商品、订单、物流",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "shopee_api": {
+        "enabled": false,
+        "name": "Shopee开放平台",
+        "description": "Shopee官方API，商品、订单、物流",
+        "partner_id": "",
+        "partner_key": "",
+        "shop_id": "",
+        "access_token": "",
+        "refresh_token": ""
+      },
+      "shopify_api": {
+        "enabled": false,
+        "name": "Shopify Admin API",
+        "description": "Shopify店铺数据，产品、订单、库存",
+        "shop_domain": "",
+        "access_token": ""
+      },
+      "diantu_shijue": {
+        "enabled": false,
+        "name": "店透视",
+        "description": "亚马逊竞品监控、关键词追踪、销量预估",
+        "api_url": "",
+        "api_key": ""
+      },
+      "google_trends": {
+        "enabled": true,
+        "name": "Google Trends",
+        "description": "全球搜索趋势分析（免费）",
+        "api_url": "",
+        "cookie": "none"
+      }
+    },
+    "shared": {
+      "free_sources": {
+        "enabled": true,
+        "name": "免费数据聚合",
+        "description": "百度/淘宝/B站搜索建议等免费公开API，无需认证"
+      },
+      "dianxiaomi": {
+        "enabled": false,
+        "name": "店小秘",
+        "description": "多平台订单管理+数据（速卖通/Shopee/Lazada/亚马逊）",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "mabang": {
+        "enabled": false,
+        "name": "马帮ERP",
+        "description": "多平台ERP+数据分析",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "tongtool": {
+        "enabled": false,
+        "name": "通途ERP",
+        "description": "多平台ERP，数据能力较强",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "mangguo": {
+        "enabled": false,
+        "name": "芒果店长",
+        "description": "Shopee/Lazada/速卖通管理（东南亚市场）",
+        "api_url": "",
+        "app_key": "",
+        "app_secret": "",
+        "access_token": ""
+      },
+      "saihe": {
+        "enabled": false,
+        "name": "赛盒",
+        "description": "多平台利润精算，自动扣除各项费用",
+        "api_url": "",
+        "api_key": "",
+        "api_secret": ""
+      },
+      "yishutong": {
+        "enabled": false,
+        "name": "亿数通",
+        "description": "亚马逊广告+利润分析",
+        "api_url": "",
+        "api_key": ""
+      }
+    }
+  }
+}
